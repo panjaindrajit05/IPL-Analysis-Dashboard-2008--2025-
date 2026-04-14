@@ -30,8 +30,8 @@ The dashboard provides a comprehensive view of team performance, player achievem
 To analyze IPL data from 2008 to 2025 and deliver meaningful insights on team performance, player statistics, and tournament trends using Power BI, DAX, and data modeling techniques.
 
 ## 📸 Dashboard Preview
-https://app.powerbi.com/view?r=eyJrIjoiOGY2ZGIwMGQtNTNjOC00OTc3LTg5OTctMjY3MTdjYTRhMzUwIiwidCI6ImY1MjhlZmFhLTgwNjMtNDNkYi1iODI4LTUxZjNiMzYyODcxZSJ9
 
+https://app.powerbi.com/view?r=eyJrIjoiOWU2ZjBmY2YtZGYwYy00YmU2LWE5MGEtMTEzNjI1YTFmMmQxIiwidCI6ImY1MjhlZmFhLTgwNjMtNDNkYi1iODI4LTUxZjNiMzYyODcxZSJ9
 
 
 
